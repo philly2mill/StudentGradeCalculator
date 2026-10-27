@@ -1,4 +1,3 @@
-# StudentGradeCalculator
 # Student Grade Calculator
 
 ## Description
